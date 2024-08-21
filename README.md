@@ -26,11 +26,11 @@ With contributions from:
 
 ## Overview
 
-|         | col 1 | col 2 | col 3 |
-| ------- |-------|-------|-------|
-| _row 1_ | r1c1  | r1c2  | r1c3  |
-| _row 2_ | r2c1  | r2c2  | r2c3  |
-| _row 3_ | r3c1  | r3c2  | r3c3  |
+|             | _col 1_ | _col 2_ | _col 3_ |
+| ----------- |---------|---------|---------|
+| _**row 1**_ |   r1c1  |   r1c2  |   r1c3  |
+| _**row 2**_ |   r2c1  |   r2c2  |   r2c3  |
+| _**row 3**_ |   r3c1  |   r3c2  |   r3c3  |
 
 Two-dimensional arrays (2D arrays) are a data structure that can be used to store data in a tabular format. Each element in a 2D array is associated with a row and a column number. This makes 2D arrays ideal for storing data that is naturally organized in rows and columns, such as spreadsheets, matrices, images, and game boards. Working with 2D arrays in Java is relatively straightforward. The int[][] data type is used to declare a 2D array. The first dimension of the array represents the number of rows, and the second dimension represents the number of columns. Each element in the array can be accessed using its row and column numbers. 2D arrays are a powerful tool that can be used to solve a wide variety of problems in Java programming. They are especially useful for applications that involve data tables, image processing, and game development. Here are some specific examples of how 2D arrays are used in Java programming:
 
