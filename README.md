@@ -1,7 +1,7 @@
 # JavaArrayFundamentals
  Derived from CISC191M2ArrayChallenges
 
-Java Test Driven Development (TDD) project to review simple Java fundamental coding and introduce unit testing ( with **JUnit** )
+Java Test Driven Development (TDD) project to review simple Java arrays with unit testing ( with **JUnit** )
 
 ________
 
@@ -26,19 +26,7 @@ With contributions from:
 
 ## Overview
 
-|             | _col 1_ | _col 2_ | _col 3_ |
-| ----------- |---------|---------|---------|
-| _**row 1**_ |   r1c1  |   r1c2  |   r1c3  |
-| _**row 2**_ |   r2c1  |   r2c2  |   r2c3  |
-| _**row 3**_ |   r3c1  |   r3c2  |   r3c3  |
-
-Two-dimensional arrays (2D arrays) are a data structure that can be used to store data in a tabular format. Each element in a 2D array is associated with a row and a column number. This makes 2D arrays ideal for storing data that is naturally organized in rows and columns, such as spreadsheets, matrices, images, and game boards. Working with 2D arrays in Java is relatively straightforward. The int[][] data type is used to declare a 2D array. The first dimension of the array represents the number of rows, and the second dimension represents the number of columns. Each element in the array can be accessed using its row and column numbers. 2D arrays are a powerful tool that can be used to solve a wide variety of problems in Java programming. They are especially useful for applications that involve data tables, image processing, and game development. Here are some specific examples of how 2D arrays are used in Java programming:
-
-Data tables: 2D arrays can be used to store data in a tabular format, such as a spreadsheet or a database table. This makes them ideal for applications that need to store and manipulate large amounts of data.
-
-Image processing: 2D arrays can be used to store the pixels of an image. This allows Java programs to manipulate images by accessing and modifying individual pixels.
-
-Game development: 2D arrays can be used to store the game board, the player's position, and the position of enemies and other objects in the game. This allows Java games to be rendered and updated efficiently.
+Java arrays are a fundamental data structure that store multiple elements of the same type in a contiguous block of memory. Arrays in Java are zero-indexed, meaning the first element is accessed at index 0. They are fixed in size, so the number of elements is defined when the array is created and cannot be changed. Arrays can hold primitive types like int, char, and double, or objects like String and custom classes. To work with arrays, Java provides various methods and loops to iterate, manipulate, and access elements efficiently.
 
 -----
 
